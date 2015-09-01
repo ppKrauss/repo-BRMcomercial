@@ -20,4 +20,8 @@ Mais detalhes sobre a BRM:
 
 * [`imagens`](./imagens): logotipo (diferentes versões) e ilustrações de identidade visual na raiz. Pastas denominadas com iniciais maiúsculas contém ilustrações de produtos e outros materiais vinculados à marca denominada.
 
+* [`docs`](./docs): documentos selecionados para material publicitário/catálogos (em formato PDF ou e-PUB, etc.) os catálogos.
+
+* [`dados`](./dados): planilhas Excel, etc. para composição de legendas, tabelas de preço, etc.
+
 * ...
