@@ -12,7 +12,11 @@ Apesar de serem dados geridos e de interesse apenas da BRM, não há restrição
 
 -----
 
-Organização das pastas deste repositório:
+Mais detalhes sobre a BRM:
+* [Face, `BrmNatural`](https://www.facebook.com/BrmNatural?fref=ts)
+* Instagram? procure por `brm_natural`
+
+**Organização** das pastas deste repositório:
 
 * [`imagens`](./imagens): logotipo (diferentes versões) e ilustrações de identidade visual na raiz. Pastas denominadas com iniciais maiúsculas contém ilustrações de produtos e outros materiais vinculados à marca denominada.
 
