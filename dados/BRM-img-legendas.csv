@@ -1,36 +1,36 @@
 PASTA,IMAGEM,kb,usar,LEGENDA
 / (image root),,,,
-,BRM-logo_gr1.png,85,,
-,BRM-logo_gr2.png,87,x,... legenda ...
-Baldoni,,,,... legenda ...
-,geleia real.jpg,24,x,... legenda ...
-,mel1.jpg,30,,
-,mix.jpg,44,,
-,polen.jpg,31,x,... legenda ...
-,propolis.jpg,22,,
-,spray1.jpg,6,,
+,BRM-logo_gr1.png,85,del,
+,BRM-logo_gr2.png,87,del,... legenda da imagem ...
+Baldoni,,,,....descreve aqui a Baldoni em poucas palavras...
+,geleia real.jpg,24,del,... legenda da imagem ... (acabou a bat celular... falou!) ...
+,mel1.jpg,30,del,
+,mix.jpg,44,del,
+,polen.jpg,31,del,... legenda da imagem ...
+,propolis.jpg,22,del,
+,spray1.jpg,6,del,
 FairTrade,,,,... legenda ...
-,fair trade.jpg,9,,
-,fair trade2.jpg,8,,
-,fair trade3.jpg,9,,
-,fair trade4.jpg,10,,
-,fair-trade-bananas.jpg,88,x,... legenda ...
-,keep-calm-and-support-fair-trade-1.jpg,41,,
+,fair trade.jpg,9,del,
+,fair trade2.jpg,8,del,
+,fair trade3.jpg,9,del,
+,fair trade4.jpg,10,del,
+,fair-trade-bananas.jpg,88,del,... legenda ...
+,keep-calm-and-support-fair-trade-1.jpg,41,del,
 Nutryvitta,,,,
 ,bananapassa.jpg,292,x,
-,bananinhacanelaeacucar.jpg,291,del,
+,bananinhacanelaeacucar.jpg,291,x,
 ,bananinhacanelazero.jpg,289,x,
-,bananinhatradicional.jpg,290,del,
-,bananinhazero.jpg,290,,
-,chips_doce.jpg,285,,
-,chips_salgada.jpg,278,,
-,farinhabananaverde.jpg,205,,
-,farinhaberinjela.jpg,199,,
-,farinhamaracuja.jpg,226,,
-ONG-Iguape,,,,
-,image00.jpg,147,prateleira,... legenda ...
-,image01.jpg,57,bau,... legenda ...
-,image02.jpg,58,tambor,... legenda ...
+,bananinhatradicional.jpg,290,x,
+,bananinhazero.jpg,290,x,
+,chips_doce.jpg,285,x,
+,chips_salgada.jpg,278,x,
+,farinhabananaverde.jpg,205,x,
+,farinhaberinjela.jpg,199,x,
+,farinhamaracuja.jpg,226,x,
+AAPCI,,,,ASSOCIAÇÃO DE ARTESÃOS E PRODUTORES CASEIROS DE IGUAPE
+,image00.jpg,147,prateleira,
+,image01.jpg,57,bau,
+,image02.jpg,58,tambor,
 ,image03.jpg,24,,
 ,image04.jpg,29,,
 ,image05.jpg,49,,
@@ -53,7 +53,7 @@ ONG-Iguape,,,,
 ,image22.jpg,78,,
 ,image23.jpg,42,,
 Tropdan,,,,
-,bananaDivina.jpg,69,x,
-,bananaPassa.jpg,58,x,
-,a-colombia.jpg,81,,
-,a-colombia.png,459,x,
+,bananaDivina.jpg,69,del,
+,bananaPassa.jpg,58,del,
+,a-colombia.jpg,81,del,
+,a-colombia.png,459,del,
