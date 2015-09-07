@@ -1,0 +1,243 @@
+/*--------------------------------fonts----------------------------*/
+/* symbol errors, see http://www.princexml.com/forum/topic/1540/error-no-glyphs-for-character
+   prince --scanfonts src/css/fonts/*.* > lixo.css
+*/
+
+/*-------------------------------------------------------*/
+
+
+
+/*-----------------------paginação-------------------------------*/
+body {
+    display: block;
+}
+
+
+/*-----------------------BODY-------------------------------*/
+
+
+p.secTitle {
+    background-color: #9C0629; /*#9b9d9f;*/
+    color: #fff;
+    width: 94%; /* 95.9% */
+    
+    text-align: center;
+    font-family: Verdana;
+    font-size: 12pt;
+    
+    padding-top: 2pt; /* 10pt */ 
+    padding-top: 2pt; /* 10pt */ 
+    padding-bottom: 3pt;   /* cinza */
+    margin-bottom: 16pt;  /* margem branca */
+    /* height: 5mm; padding-top: 1.5mm; */
+}
+
+.secCenter{
+    width: 94%; /* 95.9% */
+    text-align: center;
+    font-family: Verdana;
+    font-size: 10pt;
+}
+
+
+.tocByKeys table{
+        width: 86mm;
+}
+
+.tocByKeys tr.alt1 {
+    background-color: #DDD;    
+}
+
+.tocByKeys tr td>div:nth-child(1){
+    float: left;
+    display: inline-block;
+   text-align: left;
+   width: 50%;
+}
+
+.tocByKeys tr td>div:nth-child(2){
+    float: right;
+   text-align: right;   
+   width: 50%;
+}
+
+
+.tocByKeys td {
+    font-family: Arial;
+    font-style: italic;    
+    font-size: 9pt;
+    border:  0; 
+    padding: 0;
+    border-top: 1px; 
+    width:50%;
+}
+.tocByKeys tr td:nth-child(2) {
+    font-family: FuturaBT-Light; 
+    font-weight: 300;
+    color: #7b7d7f;
+}
+
+p.locais {
+    text-align: center;
+    font-family: FuturaBT-Light;
+    font-weight: 300;    
+    font-size: 9pt;
+    margin-bottom: 13pt;
+}
+
+
+a{
+    text-decoration: none;
+    color: #000;
+    margin-bottom: 2mm; /* new */
+}
+
+div.title{
+    width: 85%;
+    font-size: 7.0pt;
+    padding-top: .5pt;
+}
+
+div.title-block{ /* new */
+    width: 85%;
+    font-size: 7.2pt;
+    padding-top: .5pt;
+}
+
+span+div{
+    margin-left: 12.5mm;
+}
+div>p{
+    margin-bottom: 2pt;
+    margin-top: 2pt;
+}
+
+
+div.aux{
+    display: block;
+    background-color: black;
+    margin-bottom: 0;
+    padding: 0 0;
+}
+
+span.pubid{
+    float: left;
+    color: #fff;
+    background-color: #9C0629; /*old #888 old #9b9d9f*/
+    padding: 2pt 2pt; 
+    font-family: Verdana;
+    font-size: 13pt;   /* 8pt bom */
+    /*margin-right: 88%;*/
+    text-align: center;
+    text-transform:uppercase;
+    text-indent: 0;
+
+    margin-right: 15pt;
+    margin-bottom: 2pt;
+}
+hr{  /* linha no pubid */
+    display: block; 
+    width: 100%;
+    height: 1px;
+    border: 0; 
+    border-top: 1px solid #9C0629; /* old 888 old #9b9d9f*/
+}
+hr+span{
+    margin: -1pt 0;
+}
+
+
+div.sec{
+    page-break-inside: avoid;
+    width:100%;
+    /*max-width:800pt;    | A. max horizontal number of boxes =~ int(A/B) */
+    margin:0 auto;
+    text-align:left;    /* (left|center) align last boxes and the set vert. line */
+    font-family: sans-serif;
+    font-size: 5pt;
+}
+div.article {
+    display: inline-block;
+    overflow:auto;    
+    /*height: 77mm;*/    /* B. change the vertical numb. of boxes */
+    width: 86mm;        /* C. change the horizontal numb. of boxes*/
+    margin-right:6.8mm;         /*  boxes separator */
+
+    vertical-align: top; /* (top|bottom) align boxes */
+    text-align:justify;
+    margin-bottom: 8pt;
+}
+
+div.title{
+    text-align: left;
+    font-family: Verdana;
+    font-size: 12pt;
+    line-height: 14pt;
+}
+
+div.aux+div.contrib-group{
+    margin: 0 0;
+    padding: 0 0;
+}
+
+div.contrib-group{
+    display: inline-block;
+    width: 90%;
+    text-align: left;
+    margin-top: .8pt;
+
+    font-family: Arial;
+    font-size: 12pt;  /* 7pt;*/
+}
+
+span.contrib{
+    display: inline;
+    text-align:left;
+    text-decoration:none;
+    font-style: italic;
+    text-align: left;
+    font-family: Arial;
+    font-style: italic;    
+    font-size: 12pt;  /* 7pt;*/
+}
+p.aff
+{
+    text-align: left;
+    font-family: FuturaBT-Light;
+    font-weight: 300;    
+    font-size: 12pt;
+}
+
+p.corresp{
+    text-align: left;
+    font-family: FuturaBT-Light;
+    font-weight: 300;    
+    font-size: 12pt;
+}
+
+p.abstract{
+    font-family: "Times New Roman";
+    font-size: 12pt;
+    line-height: 14pt;
+    margin-top: 4pt;
+}
+
+p.conclusion{
+    line-height: 7pt;
+    margin-top: 2pt;
+    font-size: 12pt;
+    font-style: italic;
+    font-family: Arial;
+}
+
+span.funding-source {
+    font-style: normal;
+    font-family: "Times New Roman";   
+}
+
+sup, sub{
+    font-size: 4pt;
+    margin: 0 0;
+    padding: 0 0;
+    line-height: 3pt;
+}
