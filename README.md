@@ -12,6 +12,9 @@ Apesar de serem dados geridos e de interesse apenas da BRM, não há restrição
 
 -----
 
+A [pasta de imagens](https://github.com/ppKrauss/repo-BRMcomercial/tree/master/imagens) respeita as convenções do [open-data-gallery](https://github.com/ppKrauss/open-data-gallery), a partir da qual podemos gerar nossos catálogos online e, simultaneamente, o [catalogo PDF](https://github.com/ppKrauss/repo-BRMcomercial/raw/master/docs/gallery.pdf).
+
+-----
 Mais detalhes sobre a BRM:
 * [Face, `BrmNatural`](https://www.facebook.com/BrmNatural?fref=ts)
 * Instagram? procure por `brm_natural`
